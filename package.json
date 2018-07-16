@@ -1,0 +1,33 @@
+{
+  "name": "selenium-setup",
+  "version": "1.0.0",
+  "description": "Setup testing environment",
+  "author": {
+    "name": "Richard Snajdr",
+    "email": "richard.snajdr@bisnode.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snajdric/selenium.git"
+  },
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snajdric/selenium/issues"
+  },
+  "homepage": "https://github.com/snajdric/selenium#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "selenium-webdriver": "^3.6.0" 
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "selenium-webdriver": "^3.6.0" 
+  }
+}
